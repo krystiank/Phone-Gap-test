@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Phone Gap test' target in the 'Phone Gap test' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
